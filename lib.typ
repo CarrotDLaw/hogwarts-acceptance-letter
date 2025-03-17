@@ -63,7 +63,7 @@
       text(
         14pt,
         tracking: 0.5pt * 14 / 18,
-        "PARENTS ARE REMINDED THAT FIRST YEARS ARE \ NOT ALLOWED THEIR OWN BROOMSTICK",
+        "PARENTS ARE REMINDED THAT FIRST YEARS ARE \n NOT ALLOWED THEIR OWN BROOMSTICK",
       ),
     )
   ]
